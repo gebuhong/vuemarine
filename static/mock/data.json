@@ -1,0 +1,25 @@
+{
+  "name": "狂神说Java",
+  "url":"https://www.baidu.com/",
+  "page":1,
+  "isNonProfit":true,
+  "address":{
+    "street":"荷园新居",
+    "city": "四川成都",
+    "country": "中国"
+  },
+  "links":[
+    {
+      "name": "bilibili",
+      "url": "http://space.bilibili.com/95256449"
+    },
+    {
+      "name": "狂神说",
+      "url": "https://blog.kuangstudy.com"
+    },
+    {
+      "name": "biadu",
+      "url": "https://www.baidu.com/"
+    }
+  ]
+}
